@@ -9,7 +9,7 @@ This is my first development project achieved in one week. Please do not look at
 ```console
 mkdir build && cd build
 cmake .. -G<toolchain>
-cmake install
+make install
 ../Borentia v1.0
 ```
 
