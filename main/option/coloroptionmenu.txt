@@ -1,0 +1,20 @@
+
+    ========================================================================
+        			 
+				  |COULEURS|
+
+	(1) Noir/Blanc                                  (6) Rouge/Noir
+
+	(2) Noir/Vert                                   (7) Bleu/Noir
+
+	(3) Noir/Rouge                                  (8) Vert/Noir
+
+	(4) Noir/Bleu ciel                              (9) Gris/Noir
+
+	(5) Noir/Bleu                                  (10) Blanc/Noir
+
+				 (11) Retour
+
+
+    ========================================================================
+

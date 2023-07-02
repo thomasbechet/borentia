@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.13)
+project(borentia)
+file(GLOB borentia_SRC "src/*.h" "src/*.cpp")
+add_executable(${PROJECT_NAME} ${borentia_SRC})
+set(CMAKE_INSTALL_PREFIX ${PROJECT_SOURCE_DIR})
+set_target_properties(${PROJECT_NAME} PROPERTIES OUTPUT_NAME "Borentia v1.0")
+install(TARGETS ${PROJECT_NAME} DESTINATION ${PROJECT_SOURCE_DIR})

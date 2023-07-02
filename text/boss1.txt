@@ -1,0 +1,13 @@
+
+
+
+
+
+
+
+     Vous avez vaincu le Cerf Volant ! Vous pouvez, pour sauver votre ami 
+et continuer votre quete, passer a la prochaine zone de Borentia: La Jungle.
+Cette zone est dangereuse et regorge d'ennemis qui n'auront aucune pitie ! 
+Bonne chance ... 
+
+next

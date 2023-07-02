@@ -1,0 +1,22 @@
+    
+    ========================================================================
+        			 
+
+
+				   
+
+	            Voulez-vous retourner au menu principal ?
+	    (Si vous n'avez pas sauvegarde la sauvegarde sera perdu!)
+
+			         
+	
+		
+               (1) OUI                                      (2) NON
+
+
+			    
+
+
+
+
+    ========================================================================
